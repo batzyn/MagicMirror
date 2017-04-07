@@ -15,7 +15,7 @@ Module.register("compliments", {
 				"Hey there sexy!"
 			],
 			morning: [
-				"Good morning, handsome!",
+				"Good morning, my corazon!",
 				"Enjoy your day!",
 				"How was your sleep?"
 			],
